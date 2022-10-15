@@ -24,5 +24,5 @@
   ![Snake animation](https://github.com/Zinnyz/Zinnyz/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/115894447/196002682-fadbd77a-8c04-4288-8754-f216fe0f3fcc.gif)
+
 
