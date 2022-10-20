@@ -17,9 +17,8 @@
   ### Minhas redes:
  
 <div> 
-  <a https://www.youtube.com/channel/UCmzZP7LHrwHHPBnvSrWDI_Q/about" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
- <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <a href="https://www.linkedin.com/in/henrique-gaze-222a50253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Zinnyz/Zinnyz/blob/output/github-contribution-grid-snake.svg)
 
